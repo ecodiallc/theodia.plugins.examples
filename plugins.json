@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T16:48:53.525Z",
+  "generatedAt": "2026-09-07T21:40:13.994Z",
   "plugins": [
     {
       "id": "theodia.test.ai.chapter-sermon",
@@ -39,9 +39,9 @@
     {
       "id": "theodia.test.flashcards",
       "name": "Test Flashcards",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "downloadUrl": "https://raw.githubusercontent.com/ecodiallc/theodia.plugins/main/theodia.test.flashcards.plugin.zip",
-      "description": "A test plugin providing flashcard data from the legacy flashcards database"
+      "description": "A test plugin providing flashcard data that merges into the existing Flashcards feature"
     },
     {
       "id": "theodia.test.html",
