@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-25T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "theodia.test.ai.chapter-sermon",
+      "type": "plugin",
+      "path": "Theodia.Test.AI.Chapter-Sermon.plugin.zip",
+      "name": "Sermon Outlines (Test)",
+      "description": "Generate sermon and teaching outlines from Bible passages",
+      "author": "Theodia",
+      "tags": ["plugin", "test", "ai", "sermon", "outline", "chapter"],
+      "version": "0.1.0"
+    },
+    {
+      "id": "theodia.test.ai.verse-prayer",
+      "type": "plugin",
+      "path": "Theodia.Test.AI.Verse-Prayer.plugin.zip",
+      "name": "Prayer Generator (Test)",
+      "description": "Generate prayers inspired by Bible passages",
+      "author": "Theodia",
+      "tags": ["plugin", "test", "ai", "prayer", "verse"],
+      "version": "0.1.0"
+    },
+    {
+      "id": "theodia.test.chapter",
+      "type": "plugin",
+      "path": "Theodia.Test.Chapter.plugin.zip",
+      "name": "Test Chapter",
+      "description": "A test plugin demonstrating chapter-level data and a Theoscript statistics page via the chapter toolbar",
+      "author": "Theodia",
+      "tags": ["plugin", "test", "chapter", "toolbar", "statistics"],
+      "version": "0.2.0"
+    },
+    {
+      "id": "theodia.test.db",
+      "type": "plugin",
+      "path": "Theodia.Test.DB.plugin.zip",
+      "name": "Test DB",
+      "description": "A test plugin with CRUD database",
+      "author": "Theodia",
+      "tags": ["plugin", "test", "database", "crud"],
+      "version": "0.1.0"
+    },
+    {
+      "id": "theodia.test.detail",
+      "type": "plugin",
+      "path": "Theodia.Test.Detail.plugin.zip",
+      "name": "Test Detail",
+      "description": "A test plugin demonstrating the detail screen type",
+      "author": "Theodia",
+      "tags": ["plugin", "test", "detail", "screen"],
+      "version": "0.1.0"
+    },
+    {
+      "id": "theodia.test.flashcards",
+      "type": "plugin",
+      "path": "Theodia.Test.Flashcards.plugin.zip",
+      "name": "Test Flashcards",
+      "description": "A test plugin providing flashcard data that merges into the existing Flashcards feature",
+      "author": "Theodia",
+      "tags": ["plugin", "test", "flashcards", "data"],
+      "version": "0.2.0"
+    },
+    {
+      "id": "theodia.test.html",
+      "type": "plugin",
+      "path": "Theodia.Test.HTML.plugin.zip",
+      "name": "Test HTML",
+      "description": "A minimal test HTML plugin",
+      "author": "Theodia",
+      "tags": ["plugin", "test", "html"],
+      "version": "0.1.0"
+    }
+  ]
+}
