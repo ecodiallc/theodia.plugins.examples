@@ -7,7 +7,7 @@
 | `theodia.test.chapter` | Test Chapter | 0.2.0 | A test plugin demonstrating chapter-level data and a Theoscript statistics page via the chapter toolbar |
 | `theodia.test.db` | Test DB | 0.1.0 | A test plugin with CRUD database |
 | `theodia.test.detail` | Test Detail | 0.1.0 | A test plugin demonstrating the detail screen type |
-| `theodia.test.flashcards` | Test Flashcards | 0.1.0 | A test plugin providing flashcard data from the legacy flashcards database |
+| `theodia.test.flashcards` | Test Flashcards | 0.2.0 | A test plugin providing flashcard data that merges into the existing Flashcards feature |
 | `theodia.test.html` | Test HTML | 0.1.0 | A minimal test HTML plugin |
 
 ### Download Theodia.app
