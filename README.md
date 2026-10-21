@@ -1,14 +1,24 @@
 # Theodia Plugins
 
-| ID | Name | Version | Description |
-|---|---|---|---|
-| `theodia.test.ai.chapter-sermon` | Sermon Outlines (Test) | 0.1.0 | Generate sermon and teaching outlines from Bible passages |
-| `theodia.test.ai.verse-prayer` | Prayer Generator (Test) | 0.1.0 | Generate prayers inspired by Bible passages |
-| `theodia.test.chapter` | Test Chapter | 0.2.0 | A test plugin demonstrating chapter-level data and a Theoscript statistics page via the chapter toolbar |
-| `theodia.test.db` | Test DB | 0.1.0 | A test plugin with CRUD database |
-| `theodia.test.detail` | Test Detail | 0.1.0 | A test plugin demonstrating the detail screen type |
-| `theodia.test.flashcards` | Test Flashcards | 0.2.0 | A test plugin providing flashcard data that merges into the existing Flashcards feature |
-| `theodia.test.html` | Test HTML | 0.1.0 | A minimal test HTML plugin |
+| ID | Name |
+| --- | ---- |
+| `theodia.test.ai.chapter-sermon` | Sermon Outlines (Test) |
+| `theodia.test.ai.verse-prayer` | Prayer Generator (Test) |
+| `theodia.test.chapter` | Test Chapter |
+| `theodia.test.db` | Test DB |
+| `theodia.test.detail` | Test Detail |
+| `theodia.test.flashcards` | Test Flashcards |
+| `theodia.test.html` | Test HTML |
+
+## Sources
+
+- `theodia.test.ai.chapter-sermon`: Generate sermon and teaching outlines from Bible passages
+- `theodia.test.ai.verse-prayer`: Generate prayers inspired by Bible passages
+- `theodia.test.chapter`: A test plugin demonstrating chapter-level data and a Theoscript statistics page via the chapter toolbar
+- `theodia.test.db`: A test plugin with CRUD database
+- `theodia.test.detail`: A test plugin demonstrating the detail screen type
+- `theodia.test.flashcards`: A test plugin providing flashcard data that merges into the existing Flashcards feature
+- `theodia.test.html`: A minimal test HTML plugin
 
 ### Download Theodia.app
 
