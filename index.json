@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T00:00:00.000Z",
+  "updatedAt": "2026-10-21T00:00:00.000Z",
   "packages": [
     {
       "id": "theodia.test.ai.chapter-sermon",
@@ -9,7 +9,14 @@
       "name": "Sermon Outlines (Test)",
       "description": "Generate sermon and teaching outlines from Bible passages",
       "author": "Theodia",
-      "tags": ["plugin", "test", "ai", "sermon", "outline", "chapter"],
+      "tags": [
+        "plugin",
+        "test",
+        "ai",
+        "sermon",
+        "outline",
+        "chapter"
+      ],
       "version": "0.1.0"
     },
     {
@@ -19,7 +26,13 @@
       "name": "Prayer Generator (Test)",
       "description": "Generate prayers inspired by Bible passages",
       "author": "Theodia",
-      "tags": ["plugin", "test", "ai", "prayer", "verse"],
+      "tags": [
+        "plugin",
+        "test",
+        "ai",
+        "prayer",
+        "verse"
+      ],
       "version": "0.1.0"
     },
     {
@@ -28,8 +41,14 @@
       "path": "theodia.test.chapter.plugin.zip",
       "name": "Test Chapter",
       "description": "A test plugin demonstrating chapter-level data and a Theoscript statistics page via the chapter toolbar",
-      "author": "Theodia",
-      "tags": ["plugin", "test", "chapter", "toolbar", "statistics"],
+      "author": "Developer",
+      "tags": [
+        "plugin",
+        "test",
+        "chapter",
+        "toolbar",
+        "statistics"
+      ],
       "version": "0.2.0"
     },
     {
@@ -38,8 +57,13 @@
       "path": "theodia.test.db.plugin.zip",
       "name": "Test DB",
       "description": "A test plugin with CRUD database",
-      "author": "Theodia",
-      "tags": ["plugin", "test", "database", "crud"],
+      "author": "Developer",
+      "tags": [
+        "plugin",
+        "test",
+        "database",
+        "crud"
+      ],
       "version": "0.1.0"
     },
     {
@@ -48,8 +72,13 @@
       "path": "theodia.test.detail.plugin.zip",
       "name": "Test Detail",
       "description": "A test plugin demonstrating the detail screen type",
-      "author": "Theodia",
-      "tags": ["plugin", "test", "detail", "screen"],
+      "author": "Developer",
+      "tags": [
+        "plugin",
+        "test",
+        "detail",
+        "screen"
+      ],
       "version": "0.1.0"
     },
     {
@@ -59,7 +88,12 @@
       "name": "Test Flashcards",
       "description": "A test plugin providing flashcard data that merges into the existing Flashcards feature",
       "author": "Theodia",
-      "tags": ["plugin", "test", "flashcards", "data"],
+      "tags": [
+        "plugin",
+        "test",
+        "flashcards",
+        "data"
+      ],
       "version": "0.2.0"
     },
     {
@@ -68,8 +102,12 @@
       "path": "theodia.test.html.plugin.zip",
       "name": "Test HTML",
       "description": "A minimal test HTML plugin",
-      "author": "Theodia",
-      "tags": ["plugin", "test", "html"],
+      "author": "Developer",
+      "tags": [
+        "plugin",
+        "test",
+        "html"
+      ],
       "version": "0.1.0"
     }
   ]
