@@ -14,7 +14,7 @@
 
 - `theodia.test.ai.chapter-sermon`: Generate sermon and teaching outlines from Bible passages
 - `theodia.test.ai.verse-prayer`: Generate prayers inspired by Bible passages
-- `theodia.test.chapter`: A test plugin demonstrating chapter-level data and a Theoscript statistics page via the chapter toolbar
+- `theodia.test.chapter`: A test plugin demonstrating chapter-level data opened from the chapter toolbar menu
 - `theodia.test.db`: A test plugin with CRUD database
 - `theodia.test.detail`: A test plugin demonstrating the detail screen type
 - `theodia.test.flashcards`: A test plugin providing flashcard data that merges into the existing Flashcards feature

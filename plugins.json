@@ -18,9 +18,9 @@
     {
       "id": "theodia.test.chapter",
       "name": "Test Chapter",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "downloadUrl": "https://raw.githubusercontent.com/ecodiallc/theodia.plugins.examples/main/theodia.test.chapter.plugin.zip",
-      "description": "A test plugin demonstrating chapter-level data and a Theoscript statistics page via the chapter toolbar"
+      "description": "A test plugin demonstrating chapter-level data opened from the chapter toolbar menu"
     },
     {
       "id": "theodia.test.db",
